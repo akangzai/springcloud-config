@@ -1,1 +1,2 @@
-hello
+config
+  info:main brash,springcloud-config/config-dev.yml version=1
